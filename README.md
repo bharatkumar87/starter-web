@@ -10,7 +10,10 @@ This is the introduction line
 ## Purpose
 
 Sample website with plenty of files for demos
+this is the purpose line.
 
 ## Deployment
+
+This is the deployemnt line
 
 ## How to Contribute
