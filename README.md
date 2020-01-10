@@ -17,3 +17,7 @@ this is the purpose line.
 This is the deployemnt line
 
 ## How to Contribute
+
+### Copyright
+
+2018 git.bharat
