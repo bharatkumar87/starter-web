@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Ading more introduction
+More changes in feature branch
 
 ## Introduction
 
