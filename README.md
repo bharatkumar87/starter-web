@@ -18,6 +18,8 @@ This is the deployemnt line
 
 ## How to Contribute
 
+Fork requests for review.
+
 ### Copyright
 
 2018 git.bharat
