@@ -5,6 +5,7 @@
 
     Bharat -- @bharat -- @bharatkumar
 	stash example
+	stash 1 example
 
 # THANKS
 
